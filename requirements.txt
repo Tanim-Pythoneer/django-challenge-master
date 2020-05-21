@@ -1,0 +1,9 @@
+backports.functools-lru-cache==1.6.1
+beautifulsoup4==4.9.1
+Django==1.8.6
+django-bootstrap4==1.1.1
+django-debug-toolbar==1.7
+python-memcached==1.59
+six==1.14.0
+soupsieve==1.9.6
+sqlparse==0.3.1
