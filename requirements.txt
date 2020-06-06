@@ -1,6 +1,6 @@
 backports.functools-lru-cache==1.6.1
 beautifulsoup4==4.9.1
-Django==1.8.6
+Django==1.11.29
 django-bootstrap4==1.1.1
 django-debug-toolbar==1.7
 python-memcached==1.59
